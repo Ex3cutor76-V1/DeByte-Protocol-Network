@@ -13,6 +13,13 @@ git clone https://github.com/Ex3cutor76-V1/DeByte-Protocol-Network.git
 cd DPN/
 sudo ./install.sh
 ```
+## Funcionalidades
+
+Testes de conectividade com ping;
+Consultas de DNS revelando IPv4 e IPv6;
+Testes de HTTP;
+Testes de HTTPS;
+Exibir informações da interface de rede do host;
 
 ## Comandos
 
