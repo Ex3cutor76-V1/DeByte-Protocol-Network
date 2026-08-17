@@ -9,8 +9,10 @@ Facilitar a leitura e automatizar testes de rede de forma leve, utilizando ferra
 
 ## Instalação
 ```bash
-git clone 
-
+git clone https://github.com/Ex3cutor76-V1/DeByte-Protocol-Network.git
+cd DPN/
+sudo ./install.sh
+```
 
 ## Comandos
 
