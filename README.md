@@ -32,3 +32,5 @@ Exibir informações da interface de rede do host;
 | `dpn -hp <url>` | Realiza teste HTTP | `dpn -hp http://example.com` |
 | `dpn -hs <url>` | Realiza teste HTTPS e verifica versão TLS | `dpn -hs https://example.com` |
 | `dpn -i` | Exibe informações da interface de rede do host | `dpn -i` |
+| `dpn -n4`| Consulta vizinhos IPv4 conhecidos do Linux | `dpn -n4` | 
+| `dpn -n6`| Consulta vizinhos IPv6 conhecidos do Linux | `dpn -n6` | 
